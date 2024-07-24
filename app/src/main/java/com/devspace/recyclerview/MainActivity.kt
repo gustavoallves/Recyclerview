@@ -54,32 +54,52 @@ class MainActivity : AppCompatActivity() {
 private val contacts = listOf(
     Contact(
         name = "Ana",
-        phone = "(55)21 239842348",
+        phone = "(11) 98765-4321",
         icon = R.drawable.sample6
     ),
     Contact(
-        name = "Miguel",
-        phone = "(55)21 738264836",
+        name = "Bruno",
+        phone = "(21) 91234-5678",
         icon = R.drawable.sample2
     ),
     Contact(
-        name = "Beatriz",
-        phone = "(55)21 829374654",
+        name = "Carlos",
+        phone = "(31) 92345-6789",
+        icon = R.drawable.sample9
+    ),
+    Contact(
+        name = "Daniel",
+        phone = "(41) 93456-7890",
+        icon = R.drawable.sample10
+    ),
+    Contact(
+        name = "Fernanda",
+        phone = "(51) 94567-8901",
         icon = R.drawable.sample1
     ),
     Contact(
-        name = "Júlia",
-        phone = "(55)21 625382632",
-        icon = R.drawable.sample11
+        name = "Gabriel",
+        phone = "(61) 95678-9012",
+        icon = R.drawable.sample12
     ),
     Contact(
-        name = "Pedro",
-        phone = "(55)21 263865456",
-        icon = R.drawable.sample13
+        name = "Isabela",
+        phone = "(71) 96789-0123",
+        icon = R.drawable.sample3
     ),
     Contact(
-        name = "Lucas",
-        phone = "(55)21 726538768",
-        icon = R.drawable.sample9
+        name = "Juliana",
+        phone = "(81) 97890-1234",
+        icon = R.drawable.sample15
     ),
+    Contact(
+        name = "Mariana",
+        phone = "(91) 98901-2345",
+        icon = R.drawable.sample16
+    ),
+    Contact(
+        name = "Ricardo",
+        phone = "(19) 99012-3456",
+        icon = R.drawable.sample8
+    )
 )
